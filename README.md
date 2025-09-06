@@ -79,6 +79,6 @@ To support work efficiency, I've designed a simple information system using spre
 
 ### Detail
 <ul>
-  <li>Link detail formula:  <a href="https://github.com/vini-indriyani/sales-information-system-V1/blob/main/Formula.md">LINK</a></li>
-  <li>Link spreasheet file: <a href="https://docs.google.com/spreadsheets/d/1nN5QMxnURaHM3PqVMtd_Ujc825Ct4DVWMhn3jmxHl_k/edit?gid=928908800#gid=928908800">LINK</a></li>
+  <li>Link detail formula:  <a href="https://github.com/vini-indriyani/sales-information-system-V1/blob/main/Formula.md" target="_blank">LINK</a></li>
+  <li>Link spreasheet file: <a href="https://docs.google.com/spreadsheets/d/1nN5QMxnURaHM3PqVMtd_Ujc825Ct4DVWMhn3jmxHl_k/edit?gid=928908800#gid=928908800" target="_blank">LINK</a></li>
 </ul>
